@@ -1,0 +1,36 @@
+
+/* Class = "UILabel"; text = "Favorite Two"; ObjectID = "37f-hI-uoI"; */
+"37f-hI-uoI.text" = "Favorite Two";
+
+/* Class = "UILabel"; text = "Favorite One"; ObjectID = "3lK-ZT-JhT"; */
+"3lK-ZT-JhT.text" = "Favorite One";
+
+/* Class = "UIButton"; configuration.title = "Go to Favortie One"; ObjectID = "CbL-fw-6hB"; */
+"CbL-fw-6hB.configuration.title" = "Go to Favortie One";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "CbL-fw-6hB"; */
+"CbL-fw-6hB.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Recent"; ObjectID = "WTU-cP-0pv"; */
+"WTU-cP-0pv.text" = "Recent";
+
+/* Class = "UIButton"; configuration.title = "Button"; ObjectID = "b6Z-zP-nb0"; */
+"b6Z-zP-nb0.configuration.title" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "b6Z-zP-nb0"; */
+"b6Z-zP-nb0.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Search"; ObjectID = "fCc-pr-IiN"; */
+"fCc-pr-IiN.text" = "Search";
+
+/* Class = "UIButton"; configuration.title = "Go to Favorite Two"; ObjectID = "g0O-wq-OWc"; */
+"g0O-wq-OWc.configuration.title" = "Go to Favorite Two";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "g0O-wq-OWc"; */
+"g0O-wq-OWc.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Contacts"; ObjectID = "mxl-gA-8CV"; */
+"mxl-gA-8CV.text" = "Contacts";
+
+/* Class = "UILabel"; text = "Favorite"; ObjectID = "r0s-Xq-K98"; */
+"r0s-Xq-K98.text" = "Favorite";
